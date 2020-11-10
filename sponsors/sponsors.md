@@ -1,6 +1,6 @@
 ### Sponsors
 
-Jitesoft images are built via GitLab CI on runners hosted at the following wonderful organisations:
+Jitesoft images are built via GitLab CI on runners hosted by the following wonderful organisations:
 
 <a href="https://www.linaro.org/">
   <img src="https://raw.githubusercontent.com/jitesoft/misc/master/sponsors/linaro.png" width="256" alt="Linaro logo" />
