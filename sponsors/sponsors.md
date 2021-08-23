@@ -3,10 +3,10 @@
 Jitesoft images are built via GitLab CI on runners hosted by the following wonderful organisations:
 
 <a href="https://fosshost.org/">
-  <img src="https://raw.githubusercontent.com/jitesoft/misc/master/sponsors/fosshost.png" width="256" alt="Fosshost logo" />
+  <img src="https://raw.githubusercontent.com/jitesoft/misc/master/sponsors/fosshost.png" height="128" alt="Fosshost logo" />
 </a>
 <a href="https://www.aarch64.com/">
-  <img src="https://raw.githubusercontent.com/jitesoft/misc/master/sponsors/aarch64.png" width="256" alt="Aarch64 logo" />
+  <img src="https://raw.githubusercontent.com/jitesoft/misc/master/sponsors/aarch64.png" height="128" alt="Aarch64 logo" />
 </a>
 
 _The companies above are not affiliated with Jitesoft or any Jitesoft Projects directly._
